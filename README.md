@@ -23,7 +23,7 @@ A Windows desktop application that helps identify processes associated with exce
 - Provides a React dashboard for battery history, events, and process analysis
 - Includes a mock telemetry mode for demonstrations without battery hardware
 
-[View Project](YOUR_SMART_BATTERY_INVESTIGATOR_REPOSITORY_URL)
+[View Project]((https://github.com/alekseibalutin/smart-battery-investigator))
 
 ---
 
@@ -39,7 +39,7 @@ A local background file-management tool that automatically organizes downloads, 
 - Supports full-text document search from the command line
 - Maintains an action history with safe undo functionality
 
-[View Project](YOUR_SMART_DOWNLOADS_REPOSITORY_URL)
+[View Project]((https://github.com/alekseibalutin/smart-downloads))
 
 ## Tech Stack
 
