@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aleksei Balutin
 
-<!--
-**alekseibalutin/alekseibalutin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Columbia University interested in software engineering, backend systems, developer tools, and systems programming.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Engineering student at Columbia University
+- Former Software Engineering Intern at Alfa Bank
+- Experience with Java, Python, Spring Boot, React, SQL, and Docker
+- Interested in building practical software tools and backend systems
+
+## Projects
+
+Projects coming soon.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/aleksei-balutin-7669bb437/)  
+[Email](mailto:ab6415@columbia.edu)
